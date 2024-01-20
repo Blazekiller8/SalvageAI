@@ -12,13 +12,4 @@ pip install -r requirements.txt
 
 ## Datasets Used
 
-- [TrashNet](https://github.com/garythung/trashnet)
 - [TACO](https://github.com/pedropro/TACO/)
-
-## To download Dataset
-
-- For the TACO dataset use:
-
-```bash
-python3 datasets/TACO/download.py
-```
